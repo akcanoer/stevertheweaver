@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Stever The Weaver</title>
-</head>
 <body>
 <table border="0" width="100%" id="table1">
 	<tr>
@@ -13,7 +11,7 @@
 <p align="center"><font face="Garamond"><em>Send e-mail to: <a href="mailto:loom@stevertheweaver.com">Stevertheweaver</a></em></font></p>
 <p>Weaving Looms, warping, maintenance and repair</p>
 <p>Can often be found playing at  <a href="http://CrucesCreatives.org">Cruces Creatives</a></p>
-<p align="center"><font size="2"><a href="mailto:loom@stevertheweaver.com?subject=copyright">&copy; 2022</a></font></tr></td></table></p>
+<p align="center"><font size="2"><a href="mailto:loom@stevertheweaver.com?subject=copyright">&copy; 2022</a></font></tr></td></table>
 <p>Fun Links</p>
 </body>
 </html>
