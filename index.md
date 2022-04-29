@@ -1,4 +1,4 @@
-<head>
+Fun Links<head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="description" content="Weaving Looms, warping, maintenance and repair" />
 <meta name="Keywords" content="looms, weaving, repair, warping, Las Cruses, New Mexico, NM " /> 
@@ -14,12 +14,10 @@
 <p align="center"><em style="font-style: normal"><font face="Garamond">
 </font></p></td>
 	</tr>
-</table>
 
-<p>Weaving Looms, warping, occasional minor maintenance and repair</p>
+
+<p>Weaving Looms, warping, maintenance and repair</p>
 
 <p>Can often be found playing at  <a href="http://CrucesCreatives.org">Cruces Creatives</a></p>
 
-<p align="center"><font size="2"><a href="mailto:loom@stevertheweaver.com?subject=copyright">&copy; 2022</a></font></p>
-
-	Fun Links
+<p align="center"><font size="2"><a href="mailto:loom@stevertheweaver.com?subject=copyright">&copy; 2022</a></font></p></table>
