@@ -1,6 +1,5 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>stevertheweaver</title>
 <meta name="description" content="Weaving Looms, warping, maintenance and repair" />
 <meta name="Keywords" content="looms, weaving, repair, warping, Las Cruses, New Mexico, NM " /> 
 </head>
@@ -16,13 +15,11 @@
 </font></p></td>
 	</tr>
 </table>
-  <blockquote>
+
 <p>Weaving Looms, warping, maintenance and repair</p>
 
 <p>Can often be found playing at  <a href="http://CrucesCreatives.org">Cruces Creatives</a></p>
 
-		</blockquote>
-</blockquote>
 <p align="center"><font size="2"><a href="mailto:loom@stevertheweaver.com?subject=copyright">&copy; 2022</a></font></p>
 </body>
 </html>
