@@ -19,4 +19,4 @@
 
 <p align="center"><font size="2"><a href="mailto:loom@stevertheweaver.com?subject=copyright">&copy; 2022</a></font></tr></td></table></p>
 
-	Fun Links
+<p>	Fun Links</p>
