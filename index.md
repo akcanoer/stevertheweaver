@@ -17,6 +17,6 @@
 
 <p>Can often be found playing at  <a href="http://CrucesCreatives.org">Cruces Creatives</a></p>
 
-<p align="center"><font size="2"><a href="mailto:loom@stevertheweaver.com?subject=copyright">&copy; 2022</a></font></table></p>
+<p align="center"><font size="2"><a href="mailto:loom@stevertheweaver.com?subject=copyright">&copy; 2022</a></font></tr></td></table></p>
 
 	Fun Links
