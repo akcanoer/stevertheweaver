@@ -1,13 +1,3 @@
-Stever The Weaver
-
-Send e-mail to: <a href="mailto:loom@stevertheweaver.com">Stevertheweaver</a>
-
->Weaving Looms, warping, maintenance and repair</p>
-<p>Can often be found playing at  <a href="http://CrucesCreatives.org">Cruces Creatives</a>
-
-<a href="mailto:loom@stevertheweaver.com?subject=copyright">&copy; 2022</a>
-
-Fun Links<html>
 <head>
 <body>
 <table border="0" width="100%" id="table1">
