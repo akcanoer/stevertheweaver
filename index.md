@@ -12,14 +12,11 @@
 <p align="center"><strong><font face="Garamond" size="6">Stever The Weaver</font></strong></p>
 		<p align="center"><font face="Garamond"><em>Send e-mail to: <a href="mailto:loom@stevertheweaver.com">Stevertheweaver</a></em></font></p>
 <p align="center"><em style="font-style: normal"><font face="Garamond">
-</font></p></td>
-	</tr>
-</table>
+</font>
+
 
 <p>Weaving Looms, warping, maintenance and repair</p>
 
 <p>Can often be found playing at  <a href="http://CrucesCreatives.org">Cruces Creatives</a></p>
 
 <p align="center"><font size="2"><a href="mailto:loom@stevertheweaver.com?subject=copyright">&copy; 2022</a></font></p>
-</body>
-</html>
