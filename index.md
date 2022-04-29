@@ -1,5 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>stevertheweaver</title>
@@ -10,7 +8,7 @@
 <table border="0" width="100%" id="table1">
 	<tr>
 		<td>
-		<img src="images/vanload.jpg" alt="A vanload of loom" width="480" height="421" border="0" align="left" /></td>
+		<img src="vanload.jpg" alt="A vanload of loom" width="480" height="421" border="0" align="left" /></td>
 	  <td width="421">
 <p align="center"><strong><font face="Garamond" size="6">Stever The Weaver</font></strong></p>
 		<p align="center"><font face="Garamond"><em>Send e-mail to: <a href="mailto:loom@stevertheweaver.com">Stevertheweaver</a></em></font></p>
